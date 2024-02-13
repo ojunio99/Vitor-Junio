@@ -6,11 +6,15 @@ Hi There! 👋
 <img align="right" alt="Code Boy image" src="./codeboy.png"  width="300px"/>
 
 
-My name is Fernanda Kipper
+## My name is Vitor Junio
 (Java | Python | React JS | PHP | Angular | Javascript | HTML | CSS | C# ) 🚀
+- 👩‍💻 Software Enginner 
+- 🎓 Computer Science Student 
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
 
-👩‍💻 Software Enginner
-🎓 Computer Science Student
-🌐 Passionate about web development
-💡 Love a good challenge
-
+ <div align="left">
+  
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojunio99&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
